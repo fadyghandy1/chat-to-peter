@@ -1,0 +1,16 @@
+$primary: rgb(21, 68, 122);
+$orange: #dbb65d;
+$darkOrange: #9e691c;
+$pageBackground: #eef4ff;
+$textMuted: #b0b2ca;
+$lightGrey: #d4d4d4;
+$grey: rgba(0, 0, 0, 0.38);
+:export {
+  primary: $primary;
+  orange: $orange;
+  pagebackground: $pageBackground;
+  textMuted: $textMuted;
+  lightgrey: $lightGrey;
+  grey: $grey;
+  darkOrange: $darkOrange;
+}

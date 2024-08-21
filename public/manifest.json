@@ -1,0 +1,25 @@
+{
+  "short_name": "MLF",
+  "name": "Mio Law Firm",
+  "icons": [
+    {
+      "src": "Dubai_logo-1-1-1_ab6ffcbb-fc57-438d-ae7b-4bfd451275a1_mini.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Dubai_logo-1-1-1_ab6ffcbb-fc57-438d-ae7b-4bfd451275a1_mini.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
